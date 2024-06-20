@@ -45,8 +45,8 @@ My key skills include:
 
 ## Contact
 If you'd like to get in touch, you can reach me at:
-- Email: [your email address]
+- Email: [robachimdesa123@gmail.com]
 - LinkedIn: [your LinkedIn profile URL]
-- GitHub: [your GitHub profile URL]
+- GitHub: [https://github.com/RobaChimdesa]
 
 I'm always happy to discuss new projects, collaborations, or just to chat about web development, web design, or machine learning. Don't hesitate to reach out!
