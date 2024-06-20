@@ -4,19 +4,16 @@ Welcome to my personal portfolio website! This repository contains the source co
 
 ## Table of Contents
 1. [About Me](#about-me)
-2. [Education](#education)
-3. [Projects](#projects)
-4. [Skills](#skills)
-5. [Contact](#contact)
+
+2. [Projects](#projects)
+3. [Skills](#skills)
+4. [Contact](#contact)
 
 ## About Me
-Hello! My name is Roba Chimdesa, and I'm a [your profession, e.g., "web developer", "graphic designer", "data scientist", etc.] based in [your location]. I'm passionate about [your interests or areas of expertise] and I enjoy creating [type of projects you work on, e.g., "responsive websites", "data visualizations", "mobile applications", etc.].
+Hello! My name is Roba Chimdesa, and I'm a web developer, web designer, and machine learning enthusiast based in [Ethiopia]. I'm passionate about creating innovative and user-friendly digital experiences, and I enjoy exploring the latest technologies and techniques in web development and data science.
 
 In this portfolio, you'll find a selection of my best work and a glimpse into my skills and experience. Feel free to explore and learn more about me and my work.
 
-## Education
-- [Degree or Certification], [Field of Study or Specialization], [Institution Name], [Graduation Year]
-- [Additional Degree or Certification], [Field of Study or Specialization], [Institution Name], [Graduation Year]
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -38,11 +35,13 @@ Here are some of the projects I've worked on:
 
 ## Skills
 My key skills include:
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+- Web development
+- Web design
+- Data structures and algorithms
+- Problem-solving
+- Critical thinking
+- JavaScript
+- Python
 
 ## Contact
 If you'd like to get in touch, you can reach me at:
@@ -50,4 +49,4 @@ If you'd like to get in touch, you can reach me at:
 - LinkedIn: [your LinkedIn profile URL]
 - GitHub: [your GitHub profile URL]
 
-I'm always happy to discuss new projects, collaborations, or just to chat about [your profession or interests]. Don't hesitate to reach out!
+I'm always happy to discuss new projects, collaborations, or just to chat about web development, web design, or machine learning. Don't hesitate to reach out!
