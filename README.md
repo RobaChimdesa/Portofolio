@@ -4,7 +4,6 @@ Welcome to my personal portfolio website! This repository contains the source co
 
 ## Table of Contents
 1. [About Me](#about-me)
-
 2. [Projects](#projects)
 3. [Skills](#skills)
 4. [Contact](#contact)
